@@ -1,5 +1,4 @@
 //path of backend
 
-export const serverURL = 'http://localhost:4000'
+export const serverURL = 'https://expense-tracker-backend-6vbk.onrender.com'
 
-// https://expense-tracker-backend-5hwe.onrender.com
